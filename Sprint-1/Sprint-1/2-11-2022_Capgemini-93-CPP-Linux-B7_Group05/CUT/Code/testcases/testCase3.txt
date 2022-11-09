@@ -1,0 +1,9 @@
+Project ID=PROJ003
+Project Title=Planning a Power BI Enterprise Deployment
+Abstract=Deploying Power BI in a large enterprise is a complex task, and one that requires a lot of thought and planning. The purpose of this whitepaper is to help you make your Power BI
+deployment a success: it covers key considerations, the decisions which will be necessary throughout the process, and potential issues you may encounter. Best practices and suggestions
+are offered when possible.The target audience for this whitepaper are technology professionals. Some knowledge of
+Power BI and general business intelligence concepts will be assumed.
+Author=Melissa Coates
+Author=Chris Webb
+Patent Number=AG00012

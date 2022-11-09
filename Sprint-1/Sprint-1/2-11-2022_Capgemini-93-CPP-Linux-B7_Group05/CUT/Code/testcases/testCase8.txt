@@ -1,0 +1,10 @@
+Project ID=PROJ008
+Project Title=A research on blogging as a platform to enhance language skills
+Abstract=The incorporation of asynchronous computer-mediated communication in the classroom is currently in need of research. 
+In the present study we observe the effect of the implementation of this technique to improve writing and students’ motivation. 
+Students worked in groups and got involved in professional blogs posting responses and exchanging comments with the other groups. 
+The analysis of the results shows a high motivation of the students. Writing for a purpose has encouraged them to produce language 
+more fluently and be more concerned on correctness, which leads us to consider blogs as a potential tool for the development of 
+linguistic skills.
+Author=Begoña Montero-Fleta
+URL=https://www.sciencedirect.com/science/article/pii/S1877042810001400

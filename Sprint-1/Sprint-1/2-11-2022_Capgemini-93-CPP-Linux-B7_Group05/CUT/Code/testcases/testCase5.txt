@@ -1,0 +1,14 @@
+Project ID=PROJ005
+Project Title=PROVIDING SOCIAL SUPPORT MAY BE MORE BENEFICIAL THAN RECEIVING IT:Results From a Prospective Study of Mortality
+Abstract=This study examines the relative contributions of giving versus receiving support to longevity in a sample of older married adults.
+Baseline indicators of giving and receiving support were used to predict mortality status over a 5-year period in the Changing Lives of Older
+Couples sample. Results from logistic regression analyses indicated that mortality was significantly reduced for individuals who reported providing 
+instrumental support to friends, relatives, and neighbors, and individuals who reported providing emotional support to their spouse.
+Receiving support had no effect on mortality once giving support was taken into consideration. This pattern of findings was obtained after
+controlling for demographic, personality, health, mental health, and marital-relationship variables. These results have implications for understanding 
+how social contact influences health and longevity.
+Author=Stephanie L. Brown
+Author=Randolph M. Nesse
+Author=Amiram D. Vinokur
+Sample-Size=70
+Testing-Site=Health Services Research & Development Center of Excellence

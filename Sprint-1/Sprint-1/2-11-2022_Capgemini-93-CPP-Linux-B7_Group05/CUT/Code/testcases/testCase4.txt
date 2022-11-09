@@ -1,0 +1,9 @@
+Project ID=PROJ004
+Project Title=Navigating GDPR Compliance on AWS
+Abstract=This document provides information about services and resources that Amazon Web Services (AWS) offers customers to help them align with the requirements of the General Data Protection Regulation
+(GDPR) that might apply to their activities. These include adherence to IT security standards, the AWS Cloud Computing Compliance Controls Catalog (C5) attestation, adherence to the Cloud Infrastructure
+Services Providers in Europe (CISPE) Code of Conduct, data access controls, monitoring and logging tools, encryption, and key management.
+Author=Tim Anderson
+Author=Carmela Gambardella
+Author=Luca Iannario
+Patent Number=AG00014

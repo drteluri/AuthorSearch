@@ -1,0 +1,22 @@
+Conference Name: a
+Conference Location: a
+Conference Time::4428173-11-23 01:238	
+Author: Stephanie L. Brown
+Author: Randolph M. Nesse
+Author: Amiram D. Vinokur
+Research Papers Count: 0
+White Papers Count: 0
+Articles Count: 1
+Blogs Count: 0
+Total Submission Count: 1
+Conference Name: a
+Conference Location: b
+Conference Time::4429249-12-13 21:03"
+Author: Stephanie L. Brown
+Author: Randolph M. Nesse
+Author: Amiram D. Vinokur
+Research Papers Count: 0
+White Papers Count: 0
+Articles Count: 1
+Blogs Count: 0
+Total Submission Count: 1

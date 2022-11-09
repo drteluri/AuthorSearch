@@ -1,0 +1,8 @@
+Project ID=PROJ007
+Project Title=Researcher.Life Ambassador of the Month: January 2022
+Abstract=The Researcher.Life Ambassador Program is a global community of researchers who wish to give back to their academic 
+communities through mentoring and collaboration with other researchers. Researcher.Life Ambassadors empower themselves and their 
+fellow researchers with advanced tools and services from Researcher.Life that help them do more, be more, and succeed more. 
+Every month we spotlight one Ambassador who has gone the extra mile in supporting their academic community. 
+Author=Nour Benlakhdar
+URL=https://researcher.life/blog/article/researcher-life-ambassador-jan-2022/

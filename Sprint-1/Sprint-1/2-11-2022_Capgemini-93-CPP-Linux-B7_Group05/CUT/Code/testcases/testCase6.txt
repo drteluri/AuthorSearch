@@ -1,0 +1,10 @@
+Project ID=PROJ006
+Project Title=Effects of Balance Training on Balance Performance in Healthy Older Adults: A Systematic Review and Meta-analysis
+Abstract=The effects of balance training (BT) in older adults on proxies of postural control and mobility are well documented in the literature. 
+However, evidence-based dose-response relationships in BT modalities (i.e., training period, training frequency, training volume) have not yet been 
+established in healthy older adults.
+Author=Melanie Lesinski
+Author=Tibor Hortobágyi
+Author=Thomas Muehlbauer
+Sample-Size=80
+Testing-Site=Center for Human movement science
